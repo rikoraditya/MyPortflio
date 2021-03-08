@@ -1,7 +1,7 @@
 .jumbo {
   background-color: #e2edff;
   padding-top: 30px;
-  font-family: Times New Roman;
+font-family: 'Quicksand', sans-serif;
 }
 .jumbo p{
   font-size: 0.9rem;
@@ -13,21 +13,21 @@ hr {
 #project {
   background-color: #e2edff;
   padding-top: 10px;
-  font-family: Times New Roman;
+  font-family: 'Quicksand', sans-serif;
 }
 #about {
-  font-family: Times New Roman;
+  font-family: 'Quicksand', sans-serif;
   
 }
 #contact hr{
   width: 120px;
 }
 #contact {
-  font-family: Times New Roman;
+  font-family: 'Quicksand', sans-serif;
 }
 nav {
-  font-family: Times New Roman;
+  font-family: 'Quicksand', sans-serif;
 }
 footer {
-  font-family: Times New Roman;
+  font-family: 'Quicksand', sans-serif;
 }
